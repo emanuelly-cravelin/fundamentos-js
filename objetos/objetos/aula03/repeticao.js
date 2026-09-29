@@ -1,5 +1,5 @@
 const cliente = {
-    nome: "Xaxá",
+    nome: "Xaxa",
     idade: 44,
     email: "xaxa@firma.com",
     telefone: ["4255555444", "42999885544"],
