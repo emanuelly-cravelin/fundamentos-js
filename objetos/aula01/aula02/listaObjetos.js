@@ -1,11 +1,11 @@
 const cliente = {
     nome: "Xaxá",
-    idade: 44,
+    idade: 45,
     email: "xaxa@firma.com",
     telefone: ["4255555444", "42999885544"],
 };
 
-console.endereco = [
+cliente.endereco = [
 {
     rua: "R. Dr. Orlando Araujo Costa",
     numero: 1931,

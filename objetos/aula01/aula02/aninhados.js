@@ -5,7 +5,7 @@ const cliente = {
     telefone: ["4255555444", "42999885544"],
 };
 
-console.endereco = {
+cliente.endereco = {
     rua: "R. Dr. Orlando Araujo Costa",
     numero: 1931,
     apartamento: true,
